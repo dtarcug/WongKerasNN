@@ -1,2 +1,2 @@
 # Function
-export(YinsKerasNN)
+export(WongKerasNN)
